@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Tue Dec 10 13:42:32 2024
+# Process ID: 11872
+# Current directory: C:/Users/noliv/traitement_image/traitement_image.runs/synth_1
+# Command line: vivado.exe -log memoire_cache.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source memoire_cache.tcl
+# Log file: C:/Users/noliv/traitement_image/traitement_image.runs/synth_1/memoire_cache.vds
+# Journal file: C:/Users/noliv/traitement_image/traitement_image.runs/synth_1\vivado.jou
+# Running On        :PDE
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+# CPU Frequency     :1800 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :17019 MB
+# Swap memory       :2013 MB
+# Total Virtual     :19032 MB
+# Available Virtual :12333 MB
+#-----------------------------------------------------------
+source memoire_cache.tcl -notrace
